@@ -15,6 +15,9 @@ This is an implementation of Master Detail UI pattern where phones utilize a reg
 - Bottom Sheet Fragment (Modal Bottom Sheets)
 - Multiple Navigation Graphs
 
+## Demo APK
+Find the demo apk in [releases](https://github.com/HuM4NoiD/master-detail/releases)
+
 ## Phone Screenshots
 <img src="screens/phoneHome.jpg" width="240">
 <img src="screens/phoneList.jpg" width="240">
